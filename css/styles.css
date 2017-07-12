@@ -198,7 +198,7 @@ background: #717075;
 color: #FFFFFF;
 } 
 #main-nav.navbar-default {
-background: #222;
+background: #263692;
 border-bottom: #48B1DF 1px solid;
 }
 .navbar-nav>li {
@@ -225,7 +225,7 @@ border-left: 1px solid #171717;
 
   #main-nav.navbar-default .navbar-nav > li.open > a,
   #main-nav.navbar-default .navbar-nav > li:hover > a {
-    background: #48B1DF; 
+    background: #00aeef;
 	
     color: #FFF;
   
@@ -717,7 +717,7 @@ border-right: 1px solid #171717;
 }
 #business-stats {
   padding: 100px 0 70px;
-  background: #222222;
+  background: #263692;
   background-size: cover;
   color: #fff;
 }
