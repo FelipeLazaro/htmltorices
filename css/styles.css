@@ -227,7 +227,7 @@ border-left: 1px solid #171717;
   #main-nav.navbar-default .navbar-nav > li:hover > a {
     background: #00aeef;
 	
-    color: #FFF;
+    color: #000;
   
 }
   #main-nav.navbar-default .dropdown-menu {
