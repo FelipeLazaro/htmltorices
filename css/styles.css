@@ -375,7 +375,7 @@ color:#000;
 #cta2 h2 > span {
   color: #45aed6;
 }
-#features h2, #portfolio p{ color: #4A4A4A;}
+#features h2, #portfolio p{ color: #48B1DF;}
 #features {
   padding: 100px 0;
   background: #FFFFFF;
@@ -739,15 +739,15 @@ border-right: 1px solid #171717;
 }
 #business-stats {
   padding: 100px 0 70px;
-  background: #263692;
+  background: #fff;
   background-size: cover;
-  color: #fff;
+  color: #000;
 }
 #business-stats h1,
 #business-stats h2,
 #business-stats h3,
 #business-stats h4 {
-  color: #fff;
+  color: #48B1DF;
 }
 #business-stats strong {
   display: block;
